@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anjani-09
-- 👀 I’m interested in Developing new softwares and applications
-- 🌱 I’m currently learning Amazon Web Services and Spring Boot.
-- 💞️ I’m looking to collaborate on application and software developing projects.
+- 👀 I’m interested in Developing new software and applications
+- 🌱 I am currently looking for New Grad SDE Roles Starting February 2024.
 - 📫 You can write an email to me here. vrajana1@asu.edu
 
 <!---
